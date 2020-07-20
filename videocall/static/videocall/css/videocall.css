@@ -1,0 +1,17 @@
+#upper-title {
+  padding: 1% 0 0 5%;
+}
+
+#log-out-btn {
+  float: right;
+  padding: 0.8%;
+  margin-top: 3%;
+  margin-right: 10%;
+}
+
+.btn-group {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
